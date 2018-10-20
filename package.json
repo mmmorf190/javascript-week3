@@ -1,0 +1,25 @@
+{
+  "name": "javascript-week3",
+  "version": "0.0.1",
+  "description": "Class examples for week 3 OKCoders fall 2018 javascript class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmorf190/javascript-week3.git"
+  },
+  "keywords": [
+    "OKCoders"
+  ],
+  "author": "Matt Morf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmorf190/javascript-week3/issues"
+  },
+  "homepage": "https://github.com/mmmorf190/javascript-week3#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
